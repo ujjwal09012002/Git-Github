@@ -1,1 +1,1 @@
-print("this is the main file")
+print("this is the main file of the program")
